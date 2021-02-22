@@ -1,14 +1,3 @@
-USE [AdventureWorks2016]
-GO
-
-/****** Object:  View [Sales].[vTopTenSalespeople]    Script Date: 22/02/2021 10:02:41 ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
-
 CREATE VIEW [Sales].[vTopTenSalespeople]
 /**
 Summary: >
